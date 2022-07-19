@@ -1,0 +1,7 @@
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\BlazorApp3.exe
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\BlazorApp3.dll
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\BlazorApp3.deps.json
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\BlazorApp3.runtimeconfig.json
+C:\Users\mic\source\repos\BlazorApp3\BlazorApp3\obj\Release\net6.0\PubTmp\Out\BlazorApp3.pdb
