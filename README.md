@@ -1,4 +1,5 @@
 # blazorMinesweeper
+MineSweeper(扫雷) implement by .net tech Blazor !
 transplant from vue to blazor
 see the demo
 http://chituxq.com:8001/
